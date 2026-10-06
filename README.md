@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hey, I'm Layla 👋
+## Hey, I'm Layla 👋
 
 ### Computer Science graduate blending design, code & curiosity.
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/b5/bb/2a/b5bb2ad522df0b263438691995f03e6b.jpg" width="100%">
+  <img src="https://i.pinimg.com/1200x/11/e0/cc/11e0cc777bf1f7df5d8b600fabd9746f.jpg" width="100%">
 </p>
 </div>
 <div align="center">
@@ -20,5 +20,5 @@
 
 </div>
 
-## Where design meets technology.
+#### Where design meets technology.
 My background spans UI/UX, frontend development, Odoo, and branding. I'm currently diving deeper into Python, SQL, AI, data, and software development while exploring how design and technology can come together to build better digital experiences.
