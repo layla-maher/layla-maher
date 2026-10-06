@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**layla-maher/layla-maher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Layla 👋
 
-Here are some ideas to get you started:
+### Computer Science graduate blending design, code & curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://i.pinimg.com/736x/b5/bb/2a/b5bb2ad522df0b263438691995f03e6b.jpg" width="100%">
+</p>
+</div>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/layla-maher-341b1525a/">
+  LinkedIn
+</a>
+&nbsp; • &nbsp;
+<a href="https://www.behance.net/laylamaher_designs">
+  Behance
+</a>
+
+</div>
+
+## Where design meets technology.
+My background spans UI/UX, frontend development, Odoo, and branding. I'm currently diving deeper into Python, SQL, AI, data, and software development while exploring how design and technology can come together to build better digital experiences.
