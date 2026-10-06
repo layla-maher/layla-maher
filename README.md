@@ -1,11 +1,11 @@
 <div align="center">
 
-## Hey, I'm Layla 👋
+### Hey, I'm Layla 👋
 
-### Computer Science graduate blending design, code & curiosity.
+#### Computer Science graduate blending design, code & curiosity.
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/11/e0/cc/11e0cc777bf1f7df5d8b600fabd9746f.jpg" width="100%">
+  <img src="https://i.pinimg.com/736x/e6/f9/1e/e6f91e8d6ccc7fd3a627c20863f48ed0.jpg" width="100%">
 </p>
 </div>
 <div align="center">
