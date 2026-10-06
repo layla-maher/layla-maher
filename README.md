@@ -5,7 +5,7 @@
 #### Computer Science graduate blending design, code & curiosity.
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/e6/f9/1e/e6f91e8d6ccc7fd3a627c20863f48ed0.jpg" width="100%" height="200px">
+  <img src="https://i.pinimg.com/736x/e1/69/73/e169732210a0dc255cabf4cdbe657c4b.jpg" width="100%">
 </p>
 </div>
 <div align="center">
